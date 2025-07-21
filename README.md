@@ -6,18 +6,18 @@ Cloud engineer passionate about building scalable, cost-efficient, cloud-native 
 
 ---
 
-## 🧠 Research & Interests
+## Research & Interests
 
 - Cloud-native architecture for AI/ML workflows  
 - Distributed systems reliability and scalability  
 - Secure serverless and multi-region infrastructure  
 - ML-driven resource optimization and automation  
 
-📄 **[Read Full Research Statement](./Research_Interest_Statement.pdf)**
+[Read Full Research Statement](./Research_Interest_Statement.pdf)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Smart Invoice Infra](https://github.com/DanielAmanyi/smart-invoice-infra)  
 **Tech:** AWS Lambda, API Gateway, S3, Terraform  
@@ -33,21 +33,21 @@ Cloud engineer passionate about building scalable, cost-efficient, cloud-native 
 
 ---
 
-## ✍️ Writing & Talks
+## Writing & Talks
 
 - [DevOps + AI: Why Infrastructure Matters More Than Ever](https://medium.com/@amanyidaniel.io/devops-ai-why-infrastructure-matters-more-than-ever-01bf3335fa78)  
 - Guest speaker at DevOps meetups on IaC, automation pipelines, and performance tuning
 
 ---
 
-## 📄 Resume & Documents
+## Resume & Documents
 
-- [📄 Resume (PDF)](./Amanyi_Daniel_Resume__July_2025.pdf)
-- [📘 Research Interest Statement (PDF)](./Research_Interest_Statement.pdf)
+- [Resume (PDF)](./Amanyi_Daniel_Resume__July_2025.pdf)  
+- [Research Interest Statement (PDF)](./Research_Interest_Statement.pdf)
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email:** [amanyidaniel.io@gmail.com](mailto:amanyidaniel.io@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/daniel-amanyi-87169472](https://www.linkedin.com/in/daniel-amanyi-87169472)  
