@@ -42,7 +42,7 @@ Cloud engineer passionate about building scalable, cost-efficient, cloud-native 
 
 ## Resume & Documents
 
-- [Resume (PDF)](./Amanyi_Daniel_Resume__July_2025.pdf)  
+- [Resume (PDF)]([./Amanyi_Daniel_Resume__July_2025.pdf](https://github.com/DanielAmanyi/amanyi-daniel-portfolio/blob/main/Research%20Interest%20Statement.pdf))  
 - [Research Interest Statement (PDF)](./Research_Interest_Statement.pdf)
 
 ---
