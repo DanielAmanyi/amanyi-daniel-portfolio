@@ -1,6 +1,6 @@
 # amanyi-daniel-portfolio
 
-# SupersoniQ | Daniel Amanyi
+# SupersoniQ | Amanyi Daniel Sunday
 
 ## About Me
 Cloud Engineer | DevOps Specialist | Infrastructure-as-Code (IaC) Advocate | AI Curious
