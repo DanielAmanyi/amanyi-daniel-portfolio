@@ -31,12 +31,14 @@ Cloud Engineer | DevOps Specialist | Infrastructure-as-Code (IaC) Advocate | AI 
 **Summary:** Built secure, scalable API layers for microservices in a cloud-native ML environment.
 
 ## Writing & Talks
-- [DevOps + AI: Why Infra Matters More Than Ever](https://medium.com/@your-handle)  
+- [DevOps + AI: Why Infra Matters More Than Ever](https://medium.com/@amanyidaniel.io/devops-ai-why-infrastructure-matters-more-than-ever-01bf3335fa78)  
 - Speaker at community meetups on automation, IaC, and performance tuning
 
 ## Resume & Research
-- [Resume (PDF)](./Amanyi_Daniel_Resume__July_2025.pdf)
-- [Research Interest Statement (TXT)](./Daniel_Amanyi_Research_Interest_Statement.txt)
+- [Amanyi_Daniel_Resume__July_2025.pdf](https://github.com/user-attachments/files/21350545/Amanyi_Daniel_Resume__July_2025.pdf)
+
+- [Research Interest Statement.pdf](https://github.com/user-attachments/files/21350677/Research.Interest.Statement.pdf)
+
 
 ## 📬 Contact
 **Email:** amanyidaniel.io@gmail.com  
