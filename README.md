@@ -13,7 +13,7 @@ Cloud engineer passionate about building scalable, cost-efficient, cloud-native 
 - Secure serverless and multi-region infrastructure  
 - ML-driven resource optimization and automation  
 
-[Read Full Research Statement](./Research_Interest_Statement.pdf)
+[Read Full Research Statement](Research_Interest_Statement.pdf)
 
 ---
 
