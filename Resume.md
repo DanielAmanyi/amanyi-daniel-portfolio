@@ -52,6 +52,7 @@ Team Mentorship, Cross-Team Collaboration, Process Automation
 - AWS Certified Developer – Associate – July 2023  
 - AWS Certified Cloud Practitioner – Mar 2023  
 - CompTIA Network+ – Mar 2017
+  
 
 ---
 
