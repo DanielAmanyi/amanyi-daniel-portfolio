@@ -1,0 +1,104 @@
+# Amanyi Daniel Sunday  
+DevOps Engineer | AWS | Automation | Infrastructure as Code (IaC) | Kubernetes  
+Lagos, Nigeria  
+Email: amanyidaniel.io@gmail.com | Phone: +2348062298553  
+[LinkedIn](https://www.linkedin.com/in/daniel-amanyi-87169472/)
+
+---
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins)
+
+---
+
+## Professional Summary
+
+DevOps Engineer with expertise in AWS, Infrastructure as Code (IaC), and CI/CD pipelines. Proven track record of leading cloud infrastructure migrations, implementing cost-saving solutions, and optimizing high-availability, scalable cloud environments. Passionate about driving innovation through automation, mentoring teams, and developing cutting-edge cloud architectures. Strong collaborator in international and cross-functional teams, with a focus on security, performance optimization, and cost efficiency.
+
+---
+
+## Skills
+
+**Cloud Platforms**  
+AWS (EC2, Lambda, S3, IAM, CloudFormation, VPC, Auto Scaling, CloudFront)
+
+**DevOps Tools**  
+Terraform, Docker, Jenkins, AWS CodePipeline, Git
+
+**Scripting**  
+Python, Bash
+
+**Architecture**  
+Microservices, Event-Driven, Serverless
+
+**Security & Compliance**  
+IAM Best Practices, AWS Security Frameworks, Encryption
+
+**Leadership & Collaboration**  
+Team Mentorship, Cross-Team Collaboration, Process Automation
+
+---
+
+## Certifications
+
+- Certified Terraform Associate – Feb 2024  
+- AWS Certified SysOps Administrator – Jan 2024  
+- AWS Certified Solutions Architect – Associate – May 2023  
+- AWS Certified Developer – Associate – July 2023  
+- AWS Certified Cloud Practitioner – Mar 2023  
+- CompTIA Network+ – Mar 2017
+
+---
+
+## Experience
+
+### DevOps Engineer  
+**Capshall Technologies, UK** | May 2024 – Present (Remote)  
+- Migrated a monolithic e-commerce application to an AI/ML event-driven infrastructure, reducing costs by 75%  
+- Automated Infrastructure as Code (IaC) with Terraform, accelerating deployments by 300%  
+- Designed a multi-tiered serverless receipt management system for scalability and performance  
+- Developed secure API integrations and robust backend infrastructure automation  
+- Built data validation pipelines for AI/ML systems, enhancing accuracy and performance  
+
+### Cloud/DevOps Engineer  
+**Cloudboosta, UK** | Oct 2022 – Present (Remote)  
+- Engineered IaC for a three-tier MAN stack; restructured AWS accounts for cost efficiency  
+- Migrated legacy workloads to event-driven AWS environments, cutting infra costs by 42%  
+- Deployed ECS-based applications with Docker and CloudFormation  
+- Implemented CI/CD pipelines with Jenkins and CodePipeline  
+
+### Freelance Cloud Operations Engineer  
+**Urban Cloudworks** | Jun 2020 – Oct 2022  
+- Managed patching, scaling, and zero-downtime migrations  
+- Transformed monolithic architecture into a fault-tolerant 3-tier system  
+- Centralized AWS management via Organizations  
+- Migrated on-prem workloads and deployed LAMP/MERN applications at scale  
+
+---
+
+## Education
+
+- BSc, Computer Science – Crawford University, 2024 (CGPA: 4.3/5.0)  
+- CS50x – Harvard University, 2023  
+- HND, Computer Science – Nuhu Bamalli Polytechnic, 2011  
+- ND, Computer Science – Nuhu Bamalli Polytechnic, 2007
+
+---
+
+## Publications & Contributions
+
+- Contributor to open-source DevOps projects focused on AWS automation  
+- Technical writer on Medium (topics: cloud security, cost optimization, IaC best practices)  
+- Speaker at meetups on infrastructure automation and DevOps culture  
+
+---
+
+## Community & Leadership
+
+- Mentored junior engineers in cloud and DevOps workflows  
+- Led globally distributed teams delivering cloud-first solutions  
+- Active participant in AWS communities, promoting scalable, secure infrastructure practices
